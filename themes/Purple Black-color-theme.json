@@ -46,7 +46,7 @@
 		"name": "punctuation.separator.parameters.python",
 		"scope": "punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python",
 		"settings": {
-		  "foreground": "#f0f0f0"
+		  "foreground": "#cd56cb"
 		}
 	  },
 	  {
@@ -384,7 +384,7 @@
 		"name": "keyword.operator.misc.rust",
 		"scope": "keyword.operator.misc.rust",
 		"settings": {
-		  "foreground": "#f0f0f0"
+		  "foreground": "#cd56cb"
 		}
 	  },
 	  {
@@ -433,7 +433,7 @@
 		"name": "Punctuation",
 		"scope": "punctuation.separator.delimiter",
 		"settings": {
-		  "foreground": "#f0f0f0"
+		  "foreground": "#cd56cb"
 		}
 	  },
 	  {
@@ -510,7 +510,7 @@
 		"name": "Operators",
 		"scope": "keyword.operator",
 		"settings": {
-		  "foreground": "#f0f0f0"
+		  "foreground": "#cd56cb"
 		}
 	  },
 	  {
@@ -878,7 +878,7 @@
 		"name": "punctuation.definition.list.begin.markdown",
 		"scope": "punctuation.definition.list.begin.markdown",
 		"settings": {
-		  "foreground": "#f0f0f0"
+		  "foreground": "#cd56cb"
 		}
 	  },
 	  {
@@ -924,7 +924,7 @@
 		  "punctuation.definition.metadata.markdown"
 		],
 		"settings": {
-		  "foreground": "#f0f0f0"
+		  "foreground": "#cd56cb"
 		}
 	  },
 	  {
@@ -2001,7 +2001,7 @@
 	  "tab.border": "#171717",
 	  "tab.activeBackground": "#171717",
 	  "tab.activeBorder": "#171717",
-	  "tab.activeBorderTop": "#cfb215",
+	  "tab.activeBorderTop": "#5720d3",
 	  "tab.inactiveBackground": "#000000",
 	  "tab.inactiveForeground": "#ffffff80",
 	  "scrollbarSlider.background": "#2c2c2c66",
