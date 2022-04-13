@@ -1,0 +1,26 @@
+{
+    "name": "purple-black",
+    "displayName": "Purple-Black",
+    "description": "My purple and black theme!",
+    "version": "0.0.1",
+    "publisher":"GeorgeAlexiou",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/georgealexiou/PurpleBlack-VSCode-Theme"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple Black-color-theme.json"
+            }
+        ]
+    }
+}
